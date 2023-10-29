@@ -27,6 +27,7 @@
         android:src="@drawable/bus" />
 
     <EditText
+        android:id="@+id/sub_2"
         android:layout_width="350dp"
         android:layout_height="50dp"
         android:inputType="numberSigned"
